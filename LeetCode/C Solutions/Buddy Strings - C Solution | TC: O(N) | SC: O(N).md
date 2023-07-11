@@ -21,7 +21,7 @@ This approach ensures that we only make a single pass through each string, which
 - Space complexity: O(N) 
 
 # Code
-```
+```c
 #include <stdbool.h>
 #include <string.h>
 #include <stdlib.h>
