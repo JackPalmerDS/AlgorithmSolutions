@@ -20,7 +20,7 @@
 
 
 # Code
-```
+```c
 #include <limits.h>
 
 int m;
