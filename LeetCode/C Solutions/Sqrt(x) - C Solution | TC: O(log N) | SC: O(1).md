@@ -8,7 +8,7 @@ Next, we propose √x to be z in the equation. To find a precise decimal value, 
 - Space complexity: O(1) 
 
 # Code
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
