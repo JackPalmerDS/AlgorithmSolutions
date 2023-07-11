@@ -18,7 +18,7 @@
 - Space complexity: O(N) 
 
 # Code
-```
+```c
 #include <limits.h>
 #include <stdlib.h>
 
