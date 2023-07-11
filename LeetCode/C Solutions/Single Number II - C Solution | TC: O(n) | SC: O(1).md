@@ -18,7 +18,7 @@ For each bit from 0 to 31:
 - Space complexity: O(1) 
 
 # Code
-```
+```c
 #include <stdlib.h>
 
 int compareInts(const void* a, const void* b) {
